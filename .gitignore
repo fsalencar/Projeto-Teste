@@ -1,0 +1,8 @@
+#Ignorando os arquivos txt:
+.txt
+*.txt
+
+#Ignorando os arquivos doc:
+.doc
+*.doc
+
